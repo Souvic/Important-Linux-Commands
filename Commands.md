@@ -12,4 +12,7 @@ run command
 ctrl+A+D to detach
 screen -r to re-attach
 ctrl+D to kill.
+
+chmod -R 777 <username> to give all permissions to that user
 simple ones : mkdir, vim(to quit :q), cp <src> <dest>, sudo su, su <username>
+
